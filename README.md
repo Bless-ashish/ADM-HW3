@@ -18,7 +18,7 @@ The Group is composed by the following members:
 - `CommandLine.sh`:  shell script used to answer the first part of the Command Line Question (CLQ)
 - `Algorithm.py`: this file contains the script the answer the Algorithmic Question (AQ)
 
-**Note**: To review the notebook use the html file or [this]() link, as some plots/outputs could not be visualized in the proper way by opening the .ipynb file inside jupyter
+**Note**: To review the notebook use the html file or [this](https://nbviewer.org/github/Bless-ashish/ADM-HW3/blob/main/Main.ipynb) link, as some plots/outputs could not be visualized in the proper way by opening the .ipynb file inside jupyter
 
 
 
