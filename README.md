@@ -11,6 +11,7 @@ The Group is composed by the following members:
 - Claudio Giannini (giannini.2093898@studenti.uniroma1.it)
 
 ## Files in the Repository:
+- `HW3.md`: this file contains the homework text
 - `Main.ipynb`: this file contains all the answers to the Research Questions.
 - `main.html`: this file contains all the answers to the Research Questions but in a html format.
 - `CLQ_output.png`: this file contains images required to answer the Command Line Question (CLQ)
