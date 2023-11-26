@@ -1,6 +1,6 @@
 # Homework 3 (Group 20) - Master's Degrees from all over!
 
-This is the repository Maintained by Group 20 for the Homework 3 of ADM. The objective was to webscrape informations about nearly 6000 MSCs and build a search engine to return the top **k** suggested MSCs given a specific query.
+This is the repository Maintained by Group 20 for the Homework 3 of ADM. The objective was to webscrape informations about nearly 6000 MSCs and build a search engine to return the top **k** suggested MSCs given a specific query. Several similarity measures were implemented and compared. A map displaying the suggested courses was created.
 - Text of the Homework: ([https://github.com/Sapienza-University-Rome/ADM/tree/master/2023/Homework_3](https://github.com/Sapienza-University-Rome/ADM/tree/master/2023/Homework_3))
 
 ## Group Members:
