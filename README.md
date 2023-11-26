@@ -13,10 +13,9 @@ The Group is composed by the following members:
 ## Files in the Repository:
 - `Main.ipynb`: this file contains all the answers to the Research Questions.
 - `main.html`: this file contains all the answers to the Research Questions but in a html format.
-- `CLQ_output`: this file contains images required to answer the Command Line Question (CLQ)
+- `CLQ_output.png`: this file contains images required to answer the Command Line Question (CLQ)
 - `CommandLine.sh`:  shell script used to answer the first part of the Command Line Question (CLQ)
 - `Algorithm.py`: this file contains the script the answer the Algorithmic Question (AQ)
-- `images/`: this folder
 
 **Note**: To review the notebook use the html file or [this]() link, as some plots/outputs could not be visualized in the proper way by opening the .ipynb file inside jupyter
 
