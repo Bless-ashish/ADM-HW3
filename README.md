@@ -11,11 +11,13 @@ This is the repository Maintained by Group 20 for the Homework 3 of ADM . The Gr
 
 ## Files in the Repository:
 - `Main.ipynb`: this file contains all the answers to the Research Questions.
-- `main.html`: this file contains all the answers to the Research Questions  but in a html format.
+- `main.html`: this file contains all the answers to the Research Questions but in a html format.
 - `CLQ_output`: this file contains images required to answer the Command Line Question (CLQ)
 - `CommandLine.sh`:  shell script used to answer the first part of the Command Line Question (CLQ)
 - `Algorithm.py`: this file contains the script the answer the Algorithmic Question (AQ)
-- `images/`: this folder 
+- `images/`: this folder
+
+**Note**: To review the notebook use the html file or [this]() link, as some plots/outputs could not be visualized in the proper way by opening the .ipynb file inside jupyter
 
 
 
