@@ -1,7 +1,7 @@
 # Homework 3 (Group 20) - Master's Degrees from all over!
 
 This is the repository Maintained by Group 20 for the Homework 3 of ADM . The Group composed of the following members;
-- Text of the Homework: ([https://github.com/Sapienza-University-Rome/ADM/tree/master/2023/Homework_2](https://github.com/Sapienza-University-Rome/ADM/tree/master/2023/Homework_3))
+- Text of the Homework: ([https://github.com/Sapienza-University-Rome/ADM/tree/master/2023/Homework_3](https://github.com/Sapienza-University-Rome/ADM/tree/master/2023/Homework_3))
 
 ## Group Members:
 - Ashish Upadhaya (upadhaya.2047672@studenti.uniroma1.it)
